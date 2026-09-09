@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Environment
+.env
+*.env.local
+
+# Bot data
+bot_data.db
+temp_downloads/
+*.log
+
+# Binaries & Large Files
+ffmpeg_bin/
+ffmpeg*/
+*.exe
+
+# Test screenshots & dumps
+*.png
+*.jpg
+*.html
+test_*.py
+
+# IDE & Misc
+.vscode/
+.idea/
+*.swp
+*.swo
+telegram bot video download/
